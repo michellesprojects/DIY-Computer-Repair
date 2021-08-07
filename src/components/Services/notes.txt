@@ -1,0 +1,20 @@
+ <H2>Live Remote Support</H2>
+            <P>
+              We set you up with one of our technicans for a live support
+              session
+            </P>
+
+
+
+
+             <H2>Guided Learning</H2>
+            <P>Educational modules to teach you all about device repair</P>
+
+
+
+
+             <H2>Live Remote Support</H2>
+            <P>
+              We set you up with one of our technicans for a live support
+              session
+            </P>
